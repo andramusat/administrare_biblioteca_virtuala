@@ -19,3 +19,5 @@ BAZA DE DATE
 “The Great Gatsby”, F. Scott Fitzgerald, 1925
 “The Hobbit”, J. R. R. Tolkien, 1937
 “To Kill a Mockingbird”, Harper Lee, 1960
+
+[prezentare_biblioteca.pdf](https://github.com/andramusat/administrare_biblioteca_virtuala/files/14319479/prezentare_biblioteca.pdf)
